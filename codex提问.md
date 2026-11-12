@@ -42,3 +42,9 @@ sed -i 's/^Version:.*/Version: 0.2.6/' debian/control
 ```
 从桌面打开后，Dock 显示正确图标和名称，右键可添加到收藏夹
 ```
+
+## 转为纯ros2
+
+```
+转为纯ros2，不要残留ros1的内容, 只改动ros2的api相关部分
+```
