@@ -40,5 +40,5 @@ sed -i 's/^Version:.*/Version: 0.2.6/' debian/control
 ## Dock收藏图标
 
 ```
-从桌面打开后，Dock 显示正确图标和名称，右键可添加到收藏夹1
+从桌面打开后，Dock 显示正确图标和名称，右键可添加到收藏夹
 ```
